@@ -145,47 +145,74 @@ const skills = {
         },
       ],
     },
-    // {
-    //   title: "Data Science & AI",
-    //   fileName: "DataScienceImg",
-    //   skills: [
-    //     "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-    //     "⚡ Experience of working with Computer Vision and NLP projects",
-    //     "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-    //   ],
-    //   softwareSkills: [
-    //     {
-    //       skillName: "Tensorflow",
-    //       fontAwesomeClassname: "logos-tensorflow",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Keras",
-    //       fontAwesomeClassname: "simple-icons:keras",
-    //       style: {
-    //         backgroundColor: "white",
-    //         color: "#D00000",
-    //       },
-    //     },
-    //     {
-    //       skillName: "PyTorch",
-    //       fontAwesomeClassname: "logos-pytorch",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //       },
-    //     },
-    //     {
-    //       skillName: "Python",
-    //       fontAwesomeClassname: "ion-logo-python",
-    //       style: {
-    //         backgroundColor: "transparent",
-    //         color: "#3776AB",
-    //       },
-    //     },
-    //   ],
-    // },
+    {
+      title: "Software Engineer, Trainer",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Serving a non-profit training and mentorship platform as a trainer(to teach MERN Stack) and managing the MERN-Stack-mentorship programs for the mentees to secure high-paying contracts.",
+        "⚡ Experience of working with Pakistan top rated Software Engineers",
+        "⚡ Experience with curriculum designing and implementation for Junior Developers in Pakistani tech industry.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "Sass",
+          fontAwesomeClassname: "simple-icons:sass",
+          style: {
+            color: "#CC6699",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "simple-icons:node-dot-js",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
+        {
+          skillName: "Yarn",
+          fontAwesomeClassname: "simple-icons:yarn",
+          style: {
+            color: "#2C8EBB",
+          },
+        },
+      ],
+    },
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
@@ -363,110 +390,51 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+      title: "Introduction to Cloud Computing on AWS for Beginners [2022]",
+      subtitle: "- Udemy",
+      logo_path: "logo-udemy.svg",
+      certificate_link: "https://www.udemy.com/user/sajjad-ali-209/",
       alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      color_code: "#C0C0C0",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
+      title: "Next.js & React - The Complete Guide (incl. Two Paths!)",
+      subtitle: "- Udemy",
       logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+      certificate_link: "https://www.udemy.com/user/sajjad-ali-209/",
+      alt_name: "deeplearning.ai",
+      color_code: "white",
+    },
+    {
+      title: "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      subtitle: "- Udemy",
+      logo_path: "coursera_logo.png",
+      certificate_link: "https://www.udemy.com/user/sajjad-ali-209/",
+      alt_name: "Coursera",
+      color_code: "#4285F499",
+    },
+    {
+      title: "Advanced and Object Oriented JavaScript and ES6",
+      subtitle: "- Udemy",
+      logo_path: "google_logo.png",
+      certificate_link: "https://www.udemy.com/user/sajjad-ali-209/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
     {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
+      title: "Python : Master Programming and Development with 15 Projects",
+      subtitle: "- Udemy",
+      logo_path: "logo-udemy.svg",
       certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
+        "https://www.udemy.com/certificate/UC-23a66f96-6d55-4602-89a8-d68c858ba06e/",
+      alt_name: "Python",
       color_code: "#FFBB0099",
     },
     {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+      title: "Git & GitHub Crash Course: Create a Repository From Scratch!",
+      subtitle: "-Udemy",
+      logo_path: "logo-udemy.svg",
+      certificate_link: "https://www.udemy.com/user/sajjad-ali-209/",
       alt_name: "GCP",
       color_code: "#4285F499",
     },
@@ -651,8 +619,7 @@ const projectsHeader = {
 
 const publicationsHeader = {
   title: "Publications",
-  description:
-    "I have worked on and published a few research papers and publications of my own.",
+  description: "I have worked on and published a few articles on medium.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -660,43 +627,28 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      name: "Why JavaScript?",
+      createdAt: "2021-09-08T16:26:54Z",
+      description: "Blog written on the importance of JavaScript",
+      url: "https://medium.com/@sajjadali440990/why-javascript-b86815719123",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Redux Short Summary",
+      createdAt: "2021-09-11T16:26:54Z",
+      description:
+        "Short Summary of complete detail of Redux(Javascript State-Management Library)",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://medium.com/@sajjadali440990/redux-short-summary-70a095c71a32",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Networking and Interview Tips(For Junior Developers)",
+      createdAt: "2021-01-23T16:26:54Z",
+      description:
+        "Leveraging your network and exploring careers through informational interviews",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://medium.com/@sajjadali440990/leveraging-your-network-and-exploring-careers-through-informational-interviews-b8a2580d92cc",
     },
   ],
 };
@@ -713,7 +665,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://github.com/sajjadalidev",
+    link: "https://medium.com/@sajjadali440990",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

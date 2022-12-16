@@ -1,1 +1,114 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"masterPortfolio","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/ashutosh1919/masterPortfolio","description":"The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"truvisory","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/ashutosh1919/truvisory","description":"This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=","name":"ml-data-bot","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/ashutosh1919/ml-data-bot","description":"Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"Stock-Prediction-using-LSTM","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/ashutosh1919/Stock-Prediction-using-LSTM","description":"This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Pick-Parser","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/dsc-iiitdmk/Pick-Parser","description":"This Project is to create a tool which can parse the Resumes and transform them into our own templates","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Survival_3D_Game","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/ashutosh1919/Survival_3D_Game","description":"Survival Game using Unity3D","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "KalPay",
+      "createdAt": "2021-09-01T16:26:54Z",
+      "url": "https://kalpayfinancials.com/index.html",
+      "description": "KalPay is a Shariah Aligned, Buy now Pay later service. Using KalPay you can shop anything and split your payments in 3 monthly installments.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Flight Insider",
+      "createdAt": "2021-06-03T11:53:55Z",
+      "url": "https://flightinsiders.com/",
+      "description": "With decades of experience in the luxury travel space, the Flight Insiders was founded on 2 principles… Service and Savings. Our commitment is not only to getting the best deals, but also providing a concierge type service and a smooth booking process for our clients. Our agents are all fellow travelers as well, so we understand the needs of our clients from personal experience and perspective.Whether you are a seasoned business and first class flyer, or just about to take your first flight, we are confident that our knowledge and industry relationships will help you along the way. We work with all of the major airlines directly, as well as wholesalers, and agencies around the world to source the best possible options for our clients.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "SmyPlan",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://www.smylplan.com/login",
+      "description": "Comprehensive family dental care from an experienced team serving multiple locations in Florida.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Smyl Manatee",
+      "createdAt": "2019-11-03T05:00:56Z",
+      "url": "https://smylmanatee.com/",
+      "description": "Comprehensive family dental care from an experienced team serving multiple locations in Florida.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "PhoneKar",
+      "createdAt": "2021-08-13T13:13:00Z",
+      "url": "https://phonekar.biz/",
+      "description": "Phonekar is a platform where you can sell your phone(with any category) within a second. Just within 2 steps journey.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
