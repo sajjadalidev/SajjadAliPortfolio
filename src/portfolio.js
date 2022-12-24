@@ -23,8 +23,7 @@ const greeting = {
   logo_name: "SajjadAli",
   nickname: "Sajju",
   subTitle: `Software Engineer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance.`,
-  resumeLink:
-    "https://drive.google.com/file/d/1GLwVN1PuibxWY-rXuIfdTArrd2tWDejs/view?usp=sharing",
+  sessionLink: "https://calendly.com/iamsajjadali-dev/30min",
   portfolio_repository: "https://github.com/sajjadalidev",
   githubProfile: "https://github.com/sajjadalidev",
 };

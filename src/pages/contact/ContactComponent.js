@@ -46,9 +46,9 @@ class Contact extends Component {
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="See My Resume"
+                    text="Book a Session"
                     newTab={true}
-                    href={greeting.resumeLink}
+                    href={greeting.sessionLink}
                     theme={theme}
                   />
                 </div>
